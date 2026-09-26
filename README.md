@@ -1,8 +1,8 @@
 Selenium Python Automation Portfolio
 
 Name: Snehashish Laha
-Roll No.: YOUR_ROLL_NUMBER
-College: University of Engineering & Management, Kolkata
+Enrollment No.: 12023002001386 
+College: Institute of Engineering & Management, Kolkata
 
 About This Repository
 
